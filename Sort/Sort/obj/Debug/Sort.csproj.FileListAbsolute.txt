@@ -1,0 +1,6 @@
+c:\users\vadim\documents\visual studio 2013\Projects\Sort\Sort\bin\Debug\Sort.exe.config
+c:\users\vadim\documents\visual studio 2013\Projects\Sort\Sort\bin\Debug\Sort.exe
+c:\users\vadim\documents\visual studio 2013\Projects\Sort\Sort\bin\Debug\Sort.pdb
+c:\users\vadim\documents\visual studio 2013\Projects\Sort\Sort\obj\Debug\Sort.csprojResolveAssemblyReference.cache
+c:\users\vadim\documents\visual studio 2013\Projects\Sort\Sort\obj\Debug\Sort.exe
+c:\users\vadim\documents\visual studio 2013\Projects\Sort\Sort\obj\Debug\Sort.pdb
